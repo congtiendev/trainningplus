@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/vendor/magento/module-catalog/view/frontend/web/js/view/compare-products.js

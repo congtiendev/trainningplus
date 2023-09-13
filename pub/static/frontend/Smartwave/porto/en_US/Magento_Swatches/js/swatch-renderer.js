@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/vendor/magento/module-swatches/view/base/web/js/swatch-renderer.js

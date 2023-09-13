@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/lib/web/jquery/ui-modules/effects/effect-pulsate.js

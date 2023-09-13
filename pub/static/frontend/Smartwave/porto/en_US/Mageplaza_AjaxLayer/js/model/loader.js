@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/app/code/Mageplaza/AjaxLayer/view/frontend/web/js/model/loader.js

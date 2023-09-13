@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/vendor/magento/theme-adminhtml-backend/web/js/theme.js

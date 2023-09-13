@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/vendor/magento/module-paypal/view/adminhtml/web/js/solutions.js
