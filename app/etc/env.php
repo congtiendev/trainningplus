@@ -30,10 +30,10 @@ return [
         'table_prefix' => '',
         'connection' => [
             'default' => [
-                'host' => 'mysql',
-                'dbname' => 'trainningplus',
-                'username' => 'root',
-                'password' => '',
+                'host' => 'localhost',
+                'dbname' => 'wjhnrcafyz',
+                'username' => 'wjhnrcafyz',
+                'password' => '@722003Xx',
                 'model' => 'mysql4',
                 'engine' => 'innodb',
                 'initStatements' => 'SET NAMES utf8;',
