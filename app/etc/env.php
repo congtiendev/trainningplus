@@ -1,5 +1,3 @@
-  GNU nano 3.2                                                               env.php                                                                          
-                                                                                                                                                              
 <?php
 return array (
   'backend' =>
