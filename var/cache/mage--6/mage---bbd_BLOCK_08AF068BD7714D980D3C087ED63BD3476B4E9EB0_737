@@ -1,0 +1,32 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1694592825;s:6:"expire";i:1694596425;s:4:"tags";s:47:"bbd_BLOCK_HTML,bbd_CAT_P_737,bbd_CAT_P,bbd_MAGE";}
+                <div class="swatch-opt-737"
+         data-role="swatch-option-737"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-737]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"144":{"id":"144","code":"size","label":"Size","options":[{"id":"175","label":"32","products":["725","726","727"]},{"id":"176","label":"33","products":["728","729","730"]},{"id":"177","label":"34","products":["731","732","733"]},{"id":"178","label":"36","products":["734","735","736"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"49","label":"Black","products":["725","728","731","734"]},{"id":"52","label":"Gray","products":["726","729","732","735"]},{"id":"57","label":"Purple","products":["727","730","733","736"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"725":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"726":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"727":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"728":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"729":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"730":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"731":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"732":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"733":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"734":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"735":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}},"736":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28}},"productId":"737","chooseText":"Choose an Option...","images":[],"index":{"725":{"144":"175","93":"49"},"726":{"144":"175","93":"52"},"727":{"144":"175","93":"57"},"728":{"144":"176","93":"49"},"729":{"144":"176","93":"52"},"730":{"144":"176","93":"57"},"731":{"144":"177","93":"49"},"732":{"144":"177","93":"52"},"733":{"144":"177","93":"57"},"734":{"144":"178","93":"49"},"735":{"144":"178","93":"52"},"736":{"144":"178","93":"57"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"725":"MP01-32-Black","726":"MP01-32-Gray","727":"MP01-32-Purple","728":"MP01-33-Black","729":"MP01-33-Gray","730":"MP01-33-Purple","731":"MP01-34-Black","732":"MP01-34-Gray","733":"MP01-34-Purple","734":"MP01-36-Black","735":"MP01-36-Gray","736":"MP01-36-Purple"}},
+                    "jsonSwatchConfig": {"144":{"175":{"type":"0","value":"32","label":"32"},"176":{"type":"0","value":"33","label":"33"},"177":{"type":"0","value":"34","label":"34"},"178":{"type":"0","value":"36","label":"36"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"49":{"type":"1","value":"#000000","label":"Black"},"52":{"type":"1","value":"#8f8f8f","label":"Gray"},"57":{"type":"1","value":"#ef3dff","label":"Purple"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Ftrainningplus.loc\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-737]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":35},"oldPrice":{"amount":35},"basePrice":{"amount":28},"finalPrice":{"amount":28}}                    }
+                }
+            }
+        }
+    </script>

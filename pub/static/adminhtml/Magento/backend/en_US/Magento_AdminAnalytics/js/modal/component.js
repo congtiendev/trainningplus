@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/vendor/magento/module-admin-analytics/view/adminhtml/web/js/modal/component.js

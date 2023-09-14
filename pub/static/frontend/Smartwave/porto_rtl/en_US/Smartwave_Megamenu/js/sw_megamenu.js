@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/app/design/frontend/Smartwave/porto_rtl/Smartwave_Megamenu/web/js/sw_megamenu.js

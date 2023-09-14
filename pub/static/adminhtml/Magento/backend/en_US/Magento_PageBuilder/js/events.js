@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/vendor/magento/module-page-builder/view/base/web/js/events.js

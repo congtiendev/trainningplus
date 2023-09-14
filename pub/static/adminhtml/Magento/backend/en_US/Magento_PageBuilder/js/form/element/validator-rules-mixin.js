@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/vendor/magento/module-page-builder/view/adminhtml/web/js/form/element/validator-rules-mixin.js

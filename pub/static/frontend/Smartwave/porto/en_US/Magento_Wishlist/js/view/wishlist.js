@@ -1,0 +1,1 @@
+/shared/httpd/trainningplus/htdocs/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js

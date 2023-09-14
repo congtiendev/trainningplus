@@ -1,0 +1,59 @@
+php bin/magento indexer:reindex
+
+bin/magento deploy:mode:set developer
+
+php bin/magento setup:upgrade
+
+php bin/magento setup:di:compile
+
+rm -rf pub/static/*
+
+php bin/magento setup:static-content:deploy -f
+
+php bin/magento cache:flush
+
+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
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDhw2v+0q+3an3hiLFYxsVCdz9p+yka7pFdW7Rzqhpo2n0iCMxEjSOesStLB2TcdTakv6Xi4OCjLqZWK46mhpNjHqE756wE+3XN2GJM1EvoEcFcxC/g9sXZHRwL3joz/Wk2/aW28oSM9cXMReFfUQBzbT2QjjU3DUPNl/niFADvqHVS7ABwKxtY+0NLy8VSPHActkk5HD7Wgd8bUa2TsPMCBdLJo2VQPN3xmzhx1lg10/cNF1el5wnzt3X0LQ8yD2vw2EsFw0dzlppkASFuYTk41hXSn0J1lN0TYqddVw1J/dxHAdufn/JLO0teoP+KOVcRPHa5v2SBn2rDoE5zQujr congtiendev@gmail.com
+
+
+backup:   cd đến thư mục backup và chạy lênh : mysqldump -u root -p --host=mysql magento2 > backup.sql
+mysqldump -u dppytvkwjg -px5MUA7JAXF -h localhost dppytvkwjg > backup.sql
+
+
+import : cd đến thư mục backkup và chạy lệnh : mysqldump -u root -p --host=mysql magento2 < backup.sql
+
+
+connect filezila :
+host : sftp://167.71.86.103
+username : congtiendev
+pass : @722003Xx
+port : 22
+
+
+rm -rf vendor
+rm composer.lock
+composer install
+
+php bin/magento setup:install \
+--base-url=http://trainningplus.loc \
+--db-host=mysql \
+--db-name=trainningplus \
+--db-user=root \
+--db-password= \
+--admin-firstname=admin \
+--admin-lastname=admin \
+--admin-email=admin@admin.com \
+--admin-user=admin \
+--admin-password=admin123 \
+--language=en_US \
+--currency=USD \
+--timezone=America/Chicago \
+--use-rewrites=1 \
+--search-engine=elasticsearch7 \
+--elasticsearch-host=elastic \
+--elasticsearch-port=9200 \
+--elasticsearch-index-prefix=trainningplus \
+--elasticsearch-timeout=15
+
+
