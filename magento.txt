@@ -10,7 +10,7 @@ rm -rf pub/static/*
 
 php bin/magento setup:static-content:deploy -f
 
-php bin/magento cache:flush
+php bin/magento cache:flush hahah
 
 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
 
